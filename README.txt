@@ -1,1 +1,1 @@
-first python repository in GitHub
+first python repository in GitHub with try
